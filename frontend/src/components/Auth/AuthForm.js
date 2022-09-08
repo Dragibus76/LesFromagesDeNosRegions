@@ -5,7 +5,7 @@ const AuthForm = () => {
         <React.Fragment>
             <h1>Se connecter</h1>
                 <form onSubmit={()=>{}}>
-                    <label htmlFor="email">Votre email</label>
+                    <label htmlFor="email">Votre emai</label>
                     <input type="email" id="email" required/>
 
                     <label htmlFor="password">Votre mot de passe</label>
